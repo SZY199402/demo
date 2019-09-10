@@ -16,5 +16,5 @@ public class NewTest2 {
   @AfterTest
   public void afterTest() {
   }
-
+  
 }
